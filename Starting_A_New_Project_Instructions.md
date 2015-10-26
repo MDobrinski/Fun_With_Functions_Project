@@ -30,5 +30,15 @@ Now begin Git  and GitHub
 4. git config for user.name and user.email
 5. git add .
 6. git commit -m "commit message here."
+7. Start a web browser and go to https://github.com/ and log in
+8. Create a new repository and DO NOT check the initialize with a README file.
+
+9. Set git remote to the remote repository address and name it origin
+	git remote add origin https:github.com/MDobrinski/Fun_With_Functions_Project.git
+10. Push master to the upstream repository
+	git push -u origin master
+
+
+
 
 
