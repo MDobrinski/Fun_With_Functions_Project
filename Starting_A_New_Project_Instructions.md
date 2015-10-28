@@ -12,7 +12,7 @@
 		: Name it the same as the project
 			select the public static void main box and Finish
 
-Now begin Git  and GitHub
+**Now begin Git  and GitHub**
 1. Open command prompt.
 2. Change to your working directory for the project
 	you should see the src and bin directories for the project
