@@ -1,18 +1,18 @@
 # Read Me File for fun with functions.
 
-1. Start Eclipse
-2. Change the workspace to our thumbdrive
+*1.* Start Eclipse
+*2.* Change the workspace to our thumbdrive
 	: File>Switch Workspace
-3. Start a new project: Fun_With_Functions_Project
+*3.* Start a new project: Fun_With_Functions_Project
 	: File> New> Java Project
 		: Use default runtime environment,
 			then click on finish.
-4. Add a new class with our new project selectd: Fun_With_Functions_Project
+*4.* Add a new class with our new project selectd: Fun_With_Functions_Project
 	: File> New> Class
 		: Name it the same as the project
 			select the public static void main box and Finish
 
-Now begin Git  and GitHub
+_Now begin Git  and GitHub_
 1. Open command prompt.
 2. Change to your working directory for the project
 	you should see the src and bin directories for the project
